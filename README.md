@@ -15,7 +15,10 @@ It collects, correlates, and visualizes open-source intelligence from dozens of 
 <br>
 🐍 Python 3.x support: Regularly updated dependencies for security and stability.
 <br>
+<br>
 🚀 Getting Started
+<br>
+
 <br>
 Installation
 <br>
