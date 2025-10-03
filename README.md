@@ -16,17 +16,19 @@ Clone the repo:
 
 git clone https://github.com/<your-username>/spiderpig.git
 <br>
+```
 cd spiderpig
-
+```
 
 Install requirements (it is recommended to use a virtualenv especially if you're on a debian based distro):
-
+```
 pip install -r requirements.txt
-
+```
 Run
+```
 python3 sf.py -l 127.0.0.1:5001
 
-
+```
 Then open your browser at http://127.0.0.1:5001.
 
 🧑‍💻 Writing Your Own Modules
