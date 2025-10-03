@@ -1,7 +1,13 @@
 🐷🕷️ SpiderPig
+
+
+
 <br>
 SpiderPig is a maintained fork of the original SpiderFoot OSINT automation tool.
 It collects, correlates, and visualizes open-source intelligence from dozens of sources to help with investigations, red teaming, and security research.
+<br>
+
+
 <br>
 ✨ Features
 <br>
@@ -19,7 +25,6 @@ It collects, correlates, and visualizes open-source intelligence from dozens of 
 🚀 Getting Started
 <br>
 
-<br>
 Installation
 <br>
 Clone the repo:
@@ -41,12 +46,16 @@ python3 sf.py -l 127.0.0.1:5001
 ```
 Then open your browser at http://127.0.0.1:5001.
 
-🧑‍💻 Writing Your Own Modules
 <br>
+
+🧑‍💻 Writing Your Own Modules
+
 SpiderPig modules live in modules/ and are easy to extend. Each module listens for certain events (like DOMAIN_NAME) and produces new ones (like IP_ADDRESS).
 <br>
 Check out docs/MODULES.md for a quickstart guide.
 <br>
+
+
 🗺️ Roadmap
 <br>
 🚧  Upgrade Python dependencies
@@ -59,16 +68,20 @@ Check out docs/MODULES.md for a quickstart guide.
 <br>
 🚧 Re-skin web UI
 <br>
+
+
 🙌 Contributing
 <br>
+
 Pull requests are welcome! Feel free to open issues for bugs, ideas, or new integrations.
 <br>
+
+
 ⚖️ License
 <br>
 SpiderPig is released under the same license as SpiderFoot (MIT).
 Please credit the original author when referencing SpiderFoot.
 <br>
-🐖 Why "SpiderPig"?
-<br>
-Because like SpiderFoot, it sniffs around the web…
-…but does it with a sense of humor 🐷🕷️
+
+
+
