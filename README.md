@@ -28,8 +28,9 @@ It collects, correlates, and visualizes open-source intelligence from dozens of 
 Installation
 <br>
 Clone the repo:
-
+```
 git clone https://github.com/<your-username>/spiderpig.git
+```
 <br>
 ```
 cd spiderpig
