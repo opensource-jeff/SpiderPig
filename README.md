@@ -29,7 +29,7 @@ Installation
 <br>
 Clone the repo:
 ```
-git clone https://github.com/<your-username>/spiderpig.git
+git clone https://github.com/opensource-jeff/spiderpig.git
 ```
 <br>
 ```
